@@ -191,3 +191,31 @@ Le projet constitue une base technique solide, mais peut évoluer vers un niveau
 Ce projet ne se limite pas à “utiliser” un modèle.  
 
 Il démontre une compréhension réelle de son fonctionnement en environnement technique moderne.  
+
+---
+
+## ⚖ Disclaimer
+
+Ce projet est réalisé à des fins éducatives et d’analyse en cybersécurité uniquement.
+Il ne constitue en aucun cas une incitation à l’utilisation de services illicites.
+L’auteure décline toute responsabilité en cas d’usage inapproprié des informations présentées.
+
+---
+
+## 📷 Droits sur les visuels
+
+Les visuels de ce dépôt sont protégés par la licence CC BY-ND 4.0.
+Attribution obligatoire – Modification interdite.
+
+© 2026 Virginie Lechene
+
+---
+
+## 👩‍💻 Author
+
+**Virginie Lechene**  
+Cybersecurity • Pentest • Linux Security  
+
+🔗 [GitHub](https://github.com/virg736)  
+🔗 [LinkedIn](https://linkedin.com/in/virginie-lechene-fr)
+
