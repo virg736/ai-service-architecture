@@ -149,6 +149,20 @@ Réponse JSON
 
 ---
 
+---
+
+## 5️⃣ HTTP Inference JSON Response
+
+Une fois le modèle LLM chargé en local via Ollama, une requête HTTP est envoyée au backend afin de déclencher une inférence.
+
+La réponse retournée est structurée en JSON et contient le texte généré ainsi que les métriques d’exécution.
+
+<div align="center">
+  <img src="05-http-inference-json-response.png" width="900"/>
+</div>
+
+
+--
 
 ## 🔐 Perspective Sécurité   
 
