@@ -123,6 +123,20 @@ Le modèle est prêt à recevoir des requêtes.
 
 ---
 
+---
+
+## 5️⃣ HTTP Inference JSON Response
+
+Après le chargement du modèle via Ollama, une requête HTTP est envoyée au backend afin de déclencher une inférence.
+
+La réponse générée par le modèle est retournée au format JSON, incluant le texte produit ainsi que les métriques d’exécution.
+
+<p align="center">
+  <img src="./05-http-inference-json-response.png" width="900"/>
+</p>
+
+
+
 
 ---
 
