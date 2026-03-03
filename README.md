@@ -70,14 +70,9 @@ Ce projet montre que :
 
 ---
 
-## 🚀 FastAPI Server Running
+##  FastAPI Server Running
 
 Le backend démarre correctement via Uvicorn.
-
-<p align="center">
-  <img src="docs/01-fastapi-server-running.png" width="800">
-</p>
-
 
 <p align="center">
   <img src="01-fastapi-server-running.png" width="800">
