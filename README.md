@@ -132,8 +132,13 @@ Après le chargement du modèle via Ollama, une requête `curl` est envoyée au 
 La réponse retournée est au format JSON et contient le texte généré ainsi que les métriques d’exécution du modèle.
 
 
+<p align="center">
+  <img src="./05-http-inference-json-response.png" width="900">
+</p>
+
 
 ---
+
 
 
 ## 🔁 Architecture Complète
