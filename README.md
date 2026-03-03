@@ -155,8 +155,28 @@ Réponse JSON
 - Lecture et compréhension des logs serveur
 - Architecture IA orientée service
 
-
 ---
+
+## 🔴 Perspective Sécurité – Surface d’attaque potentielle
+
+L’exposition d’un modèle LLM via une API HTTP introduit une surface d’attaque qu’il est important d’analyser.
+
+Dans un contexte réel, un attaquant pourrait tenter :
+
+- L’injection de prompt afin de manipuler le comportement du modèle
+- L’envoi d’entrées volumineuses pour provoquer un déni de service (DoS)
+- L’exploitation d’un endpoint non protégé (absence d’authentification)
+- L’exfiltration d’informations via des requêtes malveillantes
+- L’analyse des logs pour identifier des informations sensibles
+
+Ce projet constitue donc une base pertinente pour explorer :
+
+- AI Security
+- LLM Security
+- Prompt Injection Analysis
+- AI Red Teaming
+
+Comprendre l’architecture d’exposition d’un modèle est une étape préalable indispensable à toute analyse offensive ou défensive.
 
 ## 🔐 Perspective Sécurité   
 
