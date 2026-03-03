@@ -78,7 +78,7 @@ Compréhension pratique du fonctionnement réel d'un système IA exposé comme s
 
 ## 1️⃣ FastAPI Server Running
 
-Le backend démarre correctement via Uvicorn.
+✅ Le backend démarre correctement via Uvicorn.
 
 <p align="center">
   <img src="01-fastapi-server-running.png" width="800">
@@ -88,7 +88,7 @@ Le backend démarre correctement via Uvicorn.
 
 ## 2️⃣ HTTP JSON Response
 
-Validation via navigateur : l’API retourne une réponse JSON valide.
+✅ Validation via navigateur : l’API retourne une réponse JSON valide.
 
 <p align="center">
   <img src="02-http-json-response.png" width="800">
@@ -98,7 +98,7 @@ Validation via navigateur : l’API retourne une réponse JSON valide.
 
 ## 3️⃣ HTTP Request Logs
 
-Analyse des logs serveur après requête HTTP.
+✅ Analyse des logs serveur après requête HTTP.
 
 On observe :
 - `200 OK` pour l’endpoint principal
@@ -115,7 +115,7 @@ On observe :
 
 Téléchargement et démarrage du modèle LLM en local via Ollama.
 
-Le modèle est prêt à recevoir des requêtes.
+✅ Le modèle est prêt à recevoir des requêtes.
 
 <p align="center">
   <img src="04-ollama-llm-http-api.png" width="800">
@@ -127,7 +127,7 @@ Le modèle est prêt à recevoir des requêtes.
 
 Après le chargement du modèle via Ollama, une requête `curl` est envoyée au backend afin de déclencher une inférence.
 
-La réponse retournée est au format JSON et contient le texte généré ainsi que les métriques d’exécution du modèle.
+✅ La réponse retournée est au format JSON et contient le texte généré ainsi que les métriques d’exécution du modèle.
 
 
 ---
