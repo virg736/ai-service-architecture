@@ -70,7 +70,7 @@ Ce projet montre que :
 
 ---
 
-# 🚀 AI Service Architecture
+#  AI Service Architecture
 
 Compréhension pratique du fonctionnement réel d’un système IA exposé comme service backend.
 
@@ -145,11 +145,11 @@ FastAPI (API REST)
 Ollama (LLM local)
         ↓
 Réponse JSON
+
+
 ```
 
----
-
-## 🎯 Ce que démontre ce projet
+##  Ce que démontre ce projet
 
 - Déploiement d’un LLM en local
 - Exposition via API REST (FastAPI + Uvicorn)
@@ -160,39 +160,6 @@ Réponse JSON
 
 ---
 
-
-
-##  FastAPI Server Running
-
-Le backend démarre correctement via Uvicorn.
-
-<p align="center">
-  <img src="01-fastapi-server-running.png" width="800">
-</p>
-
----
-
-## 🌐 HTTP JSON Response
-
-Validation via navigateur : l’API retourne une réponse JSON valide.
-
-<p align="center">
-  <img src="02-http-json-response.png" width="800">
-</p>
-
----
-
-##  HTTP Request Logs
-
-Analyse des logs serveur après requête HTTP.
-
-On observe :
-- `200 OK` pour l’endpoint principal
-- `404 favicon.ico` (comportement normal du navigateur)
-
-<p align="center">
-  <img src="03-http-request-logs.png" width="800">
-</p>
 
 ## 🔐 Perspective Sécurité   
 
