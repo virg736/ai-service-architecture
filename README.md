@@ -1,5 +1,5 @@
 # <h1 align="center">AI Service Architecture</h1>
-# AI Service Architecture  
+
 ## Compréhension pratique du fonctionnement réel d’un système IA
 
 ---
