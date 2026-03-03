@@ -123,6 +123,12 @@ Le modèle est prêt à recevoir des requêtes.
 
 ---
 
+<p align="center">
+  <img src="05-http-inference-json-response.png" width="900">
+</p>
+
+
+
 ---
 
 ## 5️⃣ HTTP Inference JSON Response
