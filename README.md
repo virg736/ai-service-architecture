@@ -40,6 +40,26 @@ Il permet de comprendre réellement l'AI :
 
 ---
 
+## Sommaire
+
+1. [Objectif du projet](#objectif-du-projet)  
+2. [Architecture du système](#architecture-du-système)  
+3. [Stack technologique](#stack-technologique)  
+4. [FastAPI Server Running](#1-fastapi-server-running)  
+5. [HTTP JSON Response](#2-http-json-response)  
+6. [HTTP Request Logs](#3-http-request-logs)  
+7. [LLM Local avec Ollama](#4-llm-local-avec-ollama)  
+8. [HTTP Inference JSON Response](#5-http-inference-json-response)  
+9. [Architecture complète](#architecture-complète)  
+10. [Perspective Sécurité - Surface d'attaque potentielle](#perspective-sécurité---surface-dattaque-potentielle)  
+11. [Note - Améliorations possibles](#note---améliorations-possibles)  
+12. [Conclusion](#conclusion)  
+13. [Disclaimer](#disclaimer)  
+14. [Droits sur les visuels](#droits-sur-les-visuels)  
+15. [Author](#author)
+
+----
+
 ## Architecture du système
 
 Le projet repose sur une architecture moderne orientée service :  
