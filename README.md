@@ -120,7 +120,11 @@ Téléchargement et démarrage du modèle LLM en local via Ollama.
 <p align="center">
   <img src="04-ollama-llm-http-api.png" width="800">
 </p>
+#### Exécution réelle du modèle et interrogation de l’API locale
 
+Exemple d’exécution du modèle LLM en local via Ollama, suivi d’une requête HTTP vers l’API locale.
+
+![Arch Ollama LLM Local Inference](arch-ollama-llm-local-inference.png)
 ---
 
 ## 5️⃣ HTTP Inference JSON Response
