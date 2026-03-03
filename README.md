@@ -1,5 +1,14 @@
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/LLM-Local%20Inference-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST-API-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security-Tested-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge" />
+
+</p>
+
+<p align="center">
   <img src="archlinux_AI.jpeg" width="75%" />
 </p>
 <p align="center">
