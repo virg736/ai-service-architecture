@@ -88,28 +88,9 @@ Validation via navigateur : l’API retourne une réponse JSON valide.
   <img src="02-http-json-response.png" width="800">
 </p>
 
-
-## 🚀 FastAPI Server Running
-
-Le backend démarre correctement via Uvicorn.
-
-<p align="center">
-  <img src="01-fastapi-server-running.png" width="800">
-</p>
-
 ---
 
-## 🌐 HTTP JSON Response
-
-Validation via navigateur : l’API retourne une réponse JSON valide.
-
-<p align="center">
-  <img src="02-http-json-response.png" width="800">
-</p>
-
----
-
-## 📜 HTTP Request Logs
+##  HTTP Request Logs
 
 Analyse des logs serveur après requête HTTP.
 
