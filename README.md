@@ -123,17 +123,6 @@ Le modèle est prêt à recevoir des requêtes.
 
 ---
 
-## 5️⃣ HTTP Inference JSON Response
-
-Requête envoyée au backend pour interroger le modèle.
-
-La réponse est retournée en JSON après inférence.
-
-<p align="center">
-  <img src="05-http-inference-json-response.png" width="800">
-</p>
-
----
 
 ## 🔁 Architecture Complète
 
