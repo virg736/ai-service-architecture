@@ -1,8 +1,13 @@
-# <h1 align="center">AI Service Architecture</h1>
+
 <p align="center">
   <img src="archlinux_AI.jpeg" alt="ArchLinux AI Banner" />
 </p>
-## Compréhension pratique du fonctionnement réel d’un système IA
+
+# <h1 align="center">AI Service Architecture</h1>
+<p align="center">
+  © 2026 Virginie Lechene 
+</p>
+
 
 ---
 
