@@ -79,6 +79,10 @@ Le backend démarre correctement via Uvicorn.
 </p>
 
 
+<p align="center">
+  <img src="01-fastapi-server-running.png" width="800">
+</p>
+
 
 ## 🔐 Perspective Sécurité   
 
