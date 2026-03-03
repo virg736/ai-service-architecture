@@ -171,13 +171,13 @@ Comprendre comment un modèle est exposé, interrogé et intégré dans un servi
 
 ---
 
-## 🟡 Note – Améliorations possibles
+## 🟡 Note - Améliorations possibles
 
 Le projet constitue une base technique solide, mais peut évoluer vers un niveau plus avancé avec les améliorations suivantes :
 
-- Ajout d’une authentification API (clé API ou JWT)
+- Ajout d'une authentification API (clé API ou JWT)
 - Validation stricte des entrées utilisateur
-- Mise en place d’un logging structuré (JSON logs)
+- Mise en place d'un logging structuré (JSON logs)
 - Ajout de tests automatisés (pytest)
 - Conteneurisation complète avec Dockerfile et docker-compose
 - Documentation OpenAPI plus détaillée
