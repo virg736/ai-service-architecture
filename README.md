@@ -24,11 +24,11 @@
 
 ## Objectif du projet
 
-Ce projet n’a pas pour but de simplement "utiliser" un modèle d’IA.
+Ce projet n’a pas pour objectif de simplement "utiliser" un modèle d’IA.
 
 Il démontre une compréhension **technique, opérationnelle et architecturale** du fonctionnement réel d’un système d’intelligence artificielle déployé comme service.
 
-Il permet de comprennent réellement AI :
+Il permet de comprendre réellement l'AI :
 
 - Comment on appelle un modèle
 - Comment fonctionne l'inférence
