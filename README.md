@@ -124,6 +124,26 @@ Le modèle est prêt à recevoir des requêtes.
 ---
 
 
+---
+
+## 5️⃣ HTTP Inference JSON Response
+
+Après le démarrage du modèle LLM via Ollama, une requête HTTP est envoyée au backend afin de déclencher une inférence.
+
+Cette requête est effectuée via `curl`, ce qui permet de tester directement l’API REST exposée par FastAPI.
+
+La réponse retournée est structurée en JSON et contient :
+
+- Le modèle utilisé
+- Le texte généré
+- Le statut de complétion
+- Les métriques d’inférence (tokens, durée, etc.)
+
+<div align="center">
+  <img src="05-http-inference-json-response.png" width="900"/>
+</div>
+
+
 ## 🔁 Architecture Complète
 
 ```
