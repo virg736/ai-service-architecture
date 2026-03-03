@@ -59,20 +59,20 @@ Ce projet montre que :
 
 ---  
 
-## Stack moderne utilisée   
+## Stack technologique    
 
 - Arch Linux (environnement virtualisé)  
-- FastAPI (framework backend moderne)  
-- Uvicorn (serveur ASGI)  
-- Ollama (LLM local)  
+- FastAPI (framework backend ASGI)  
+- Uvicorn (serveur ASGI haute performance)  
+- Ollama (LLM exécuté local)  
 - Docker (conteneurisation)  
-- curl (validation HTTP et tests d’API)  
+- curl (validation des requêtes HTTP et tests d"API)  
 
 ---
 
 #  AI Service Architecture
 
-Compréhension pratique du fonctionnement réel d’un système IA exposé comme service backend.
+Compréhension pratique du fonctionnement réel d'un système IA exposé comme service backend.
 
 ---
 
