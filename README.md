@@ -70,6 +70,98 @@ Ce projet montre que :
 
 ---
 
+# 🚀 AI Service Architecture
+
+Compréhension pratique du fonctionnement réel d’un système IA exposé comme service backend.
+
+---
+
+## 1️⃣ FastAPI Server Running
+
+Le backend démarre correctement via Uvicorn.
+
+<p align="center">
+  <img src="01-fastapi-server-running.png" width="800">
+</p>
+
+---
+
+## 2️⃣ HTTP JSON Response
+
+Validation via navigateur : l’API retourne une réponse JSON valide.
+
+<p align="center">
+  <img src="02-http-json-response.png" width="800">
+</p>
+
+---
+
+## 3️⃣ HTTP Request Logs
+
+Analyse des logs serveur après requête HTTP.
+
+On observe :
+- `200 OK` pour l’endpoint principal
+- `404 favicon.ico` (comportement normal du navigateur)
+- Adresse IP privée locale (192.168.x.x)
+
+<p align="center">
+  <img src="03-http-request-logs.png" width="800">
+</p>
+
+---
+
+## 4️⃣ LLM Local avec Ollama
+
+Téléchargement et démarrage du modèle LLM en local via Ollama.
+
+Le modèle est prêt à recevoir des requêtes.
+
+<p align="center">
+  <img src="04-ollama-llm-http-api.png" width="800">
+</p>
+
+---
+
+## 5️⃣ HTTP Inference JSON Response
+
+Requête envoyée au backend pour interroger le modèle.
+
+La réponse est retournée en JSON après inférence.
+
+<p align="center">
+  <img src="05-http-inference-json-response.png" width="800">
+</p>
+
+---
+
+## 🔁 Architecture Complète
+
+```
+Client (curl / navigateur)
+        ↓
+FastAPI (API REST)
+        ↓
+Ollama (LLM local)
+        ↓
+Réponse JSON
+```
+
+---
+
+## 🎯 Ce que démontre ce projet
+
+- Déploiement d’un LLM en local
+- Exposition via API REST (FastAPI + Uvicorn)
+- Communication HTTP
+- Analyse des réponses JSON
+- Lecture et compréhension des logs serveur
+- Architecture IA orientée service
+
+---
+
+
+
 ##  FastAPI Server Running
 
 Le backend démarre correctement via Uvicorn.
