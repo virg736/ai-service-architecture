@@ -2,12 +2,13 @@
 <p align="center">
   <img src="archlinux_AI.jpeg" width="75%" />
 </p>
-
-
-# <h1 align="center">AI Service Architecture</h1>
 <p align="center">
   © 2026 Virginie Lechene 
 </p>
+
+----
+
+# <h1 align="center">AI Service Architecture</h1>
 
 
 ---
