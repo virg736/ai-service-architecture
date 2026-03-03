@@ -1,1 +1,30 @@
-d
+name: API Healthcheck
+
+permissions:
+  contents: read
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  healthcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer dépendances
+        run: |
+          pip install requests
+
+      - name: Exécuter le healthcheck
+        run: |
+          python healthcheck.py
