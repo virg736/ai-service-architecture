@@ -78,15 +78,6 @@ Le backend démarre correctement via Uvicorn.
   <img src="01-fastapi-server-running.png" width="800">
 </p>
 
-
-## 🚀 FastAPI Server Running
-
-Le backend démarre correctement via Uvicorn.
-
-<p align="center">
-  <img src="01-fastapi-server-running.png" width="800">
-</p>
-
 ---
 
 ## 🌐 HTTP JSON Response
