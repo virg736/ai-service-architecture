@@ -30,7 +30,7 @@ Il démontre une compréhension **technique, opérationnelle et architecturale**
 
 Il permet de comprendre réellement l'AI :
 
-- Comment on appelle un modèle
+- Comment invoquer un modèle
 - Comment fonctionne l'inférence
 - Comment un modèle devient un service HTTP
 - Comment récupérer et analyser une réponse JSON
@@ -63,9 +63,9 @@ Plutôt que d'utiliser une API distante, l'objectif est de maîtriser l’archit
 - Déploiement d'un modèle LLM en local (Ollama)  
 - Exposition via une API REST (FastAPI + Uvicorn)  
 - Communication via HTTP  
-- Manipulation et analyse de réponses JSON  
-- Debug et analyse des logs serveur  
-- Gestion des processus et ports réseau  
+- Manipulation et analyse des réponses JSON  
+- Debogage et analyse des logs serveur  
+- Gestion des processus et des ports réseau  
 - Conteneurisation avec Docker  
 
 🟢 Ce projet montre que :  
@@ -80,9 +80,9 @@ Plutôt que d'utiliser une API distante, l'objectif est de maîtriser l’archit
 ## Stack technologique    
 
 - Arch Linux (environnement virtualisé)  
-- FastAPI (framework backend ASGI)  
+- FastAPI (framework backend basé sur ASGI)  
 - Uvicorn (serveur ASGI haute performance)  
-- Ollama (LLM exécuté local)  
+- Ollama (LLM exécuté en local)  
 - Docker (conteneurisation)  
 - curl (validation des requêtes HTTP et tests d"API)  
 
@@ -175,8 +175,8 @@ Réponse JSON
 - Exposition via API REST (FastAPI + Uvicorn)
 - Communication HTTP
 - Analyse des réponses JSON
-- Lecture et compréhension des logs serveur
-- Architecture IA orientée service
+- Lecture et compréhension des logs du serveur
+- Architecture IA orientée services
 
 ---
 
@@ -208,8 +208,8 @@ Comprendre l'architecture d'exposition d'un modèle est une étape préalable in
 Le projet constitue une base technique solide, mais peut évoluer vers un niveau plus avancé avec les améliorations suivantes :
 
 - Ajout d'une authentification API (clé API ou JWT)
-- Validation stricte des entrées utilisateur
-- Mise en place d'un logging structuré (JSON logs)
+- Validation stricte des entrées utilisateurs
+- Mise en place d'un logging structuré (logs JSON)
 - Ajout de tests automatisés (pytest)
 - Conteneurisation complète avec Dockerfile et docker-compose
 - Documentation OpenAPI plus détaillée
@@ -220,13 +220,13 @@ Le projet constitue une base technique solide, mais peut évoluer vers un niveau
 
 ## ✅ Conclusion
 
-Ce projet ne se limite pas à “utiliser” un modèle.  
+Ce projet ne se limite pas à "utiliser" un modèle.  
 
 Il démontre une compréhension réelle de son fonctionnement en environnement technique moderne.  
 
 ---
 
-## ⚖ Disclaimer
+## ⚖ Avertissement
 
 Ce projet est réalisé à des fins éducatives et d’analyse en cybersécurité uniquement.
 Il ne constitue en aucun cas une incitation à l’utilisation de services illicites.
