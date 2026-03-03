@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="archlinux_AI.jpeg" width="75%" />
+</p>
 
 <p align="center">
   <img src="archlinux_AI.jpeg" alt="ArchLinux AI Banner" />
