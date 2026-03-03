@@ -70,6 +70,16 @@ Ce projet montre que :
 
 ---
 
+## 🚀 FastAPI Server Running
+
+Le backend démarre correctement via Uvicorn.
+
+<p align="center">
+  <img src="docs/01-fastapi-server-running.png" width="800">
+</p>
+
+
+
 ## 🔐 Perspective Sécurité   
 
 La compréhension technique acquise à travers ce projet constitue une base solide pour évoluer vers :  
