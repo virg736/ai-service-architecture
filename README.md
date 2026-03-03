@@ -18,7 +18,7 @@ Il permet de comprennent réellement AI :
 - Comment récupérer et analyser une réponse JSON
 - Comment débugger un serveur IA
 
-Ce projet répond précisément à ces points.
+🟢 Ce projet répond précisément à ces points.
 
 ---
 
@@ -50,7 +50,7 @@ Plutôt que d'utiliser une API distante, l'objectif est de maîtriser l’archit
 - Gestion des processus et ports réseau  
 - Conteneurisation avec Docker  
 
-Ce projet montre que :  
+🟢 Ce projet montre que :  
 
 - Un modèle d'IA fonctionne comme un service réseau   
 - L'inférence est un processus backend observable  
