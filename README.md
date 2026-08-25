@@ -202,7 +202,7 @@ Client - Réponse JSON
 
 ---
 
-## 🔴 Perspective Sécurité - Surface d'attaque potentielle
+## 🔴 Perspective sécurité - Surface d'attaque potentielle
 
 L'exposition d'un modèle LLM via une API HTTP introduit une surface d'attaque qu'il est important d'analyser.
 
@@ -221,7 +221,7 @@ Dans un contexte réel, un attaquant pourrait tenter :
 - Prompt Injection Analysis
 - AI Red Teaming
 
-Comprendre l'architecture d'exposition d'un modèle est une étape préalable indispensable à toute analyse offensive ou défensive.
+Comprendre l'architecture d'exposition d'un modèle est une étape préalable importante à toute analyse offensive ou défensive.
 
 ---
 
