@@ -178,13 +178,15 @@ Après le chargement du modèle via Ollama, une requête `curl` est envoyée au 
 ## 🔁 Architecture Complète
 
 ```
-Client (curl / navigateur)
+Client (curl / navigateur)   
         ↓
-FastAPI (API REST)
+FastAPI (API REST)   
         ↓
-Ollama (LLM local)
+Ollama (LLM local)  
         ↓
-Réponse JSON
+     FastAPI    
+        ↓
+Client - Réponse JSON   
 
 
 ```
