@@ -136,7 +136,7 @@ Compréhension pratique du fonctionnement réel d'un système d'IA exposé via u
 
 ## 3️⃣ HTTP Request Logs
 
-✅ Analyse des logs serveur après une requête HTTP.
+✅ Analyse des logs du serveur après une requête HTTP.
 
 On observe :
 - `200 OK` pour l’endpoint principal
