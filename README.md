@@ -230,7 +230,7 @@ Comprendre l'architecture d'exposition d'un modèle est une étape préalable im
 Le projet constitue une base technique solide, mais peut évoluer vers un niveau plus avancé avec les améliorations suivantes :
 
 - Ajout d'une authentification API (clé API ou JWT)
-- Validation stricte des entrées utilisateurs
+- Validation stricte des entrées utilisateur
 - Mise en place d'un logging structuré (logs JSON)
 - Ajout de tests automatisés (pytest)
 - Conteneurisation complète avec Dockerfile et docker-compose
@@ -244,7 +244,7 @@ Le projet constitue une base technique solide, mais peut évoluer vers un niveau
 
 Ce projet ne se limite pas à "utiliser" un modèle.  
 
-Il démontre une compréhension réelle de son fonctionnement en environnement technique moderne.  
+Il démontre une compréhension concréte de son fonctionnement en environnement technique moderne.  
 
 ---
 
