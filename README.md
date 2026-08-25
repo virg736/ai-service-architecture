@@ -110,7 +110,7 @@ Plutôt que d'utiliser une API distante, l'objectif est de maîtriser l’archit
 
 #  AI Service Architecture
 
-Compréhension pratique du fonctionnement réel d'un système IA exposé comme service backend.
+Compréhension pratique du fonctionnement réel d'un système d'IA exposé via une API backend.
 
 ---
 
