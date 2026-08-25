@@ -32,7 +32,7 @@ Il permet de comprendre réellement l'AI :
 
 - Comment invoquer un modèle
 - Comment fonctionne l'inférence
-- Comment un modèle devient un service HTTP
+- Comment exposer un modèle via un service HTTP 
 - Comment récupérer et analyser une réponse JSON
 - Comment débugger un serveur IA
 
