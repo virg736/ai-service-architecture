@@ -62,7 +62,7 @@ Il permet de comprendre réellement l'AI :
 
 ## Architecture du système
 
-Le projet repose sur une architecture moderne orientée service :  
+Le projet repose sur une architecture moderne orientée services :  
 
 LLM (Ollama)    
 ⬇  
@@ -84,13 +84,13 @@ Plutôt que d'utiliser une API distante, l'objectif est de maîtriser l’archit
 - Exposition via une API REST (FastAPI + Uvicorn)  
 - Communication via HTTP  
 - Manipulation et analyse des réponses JSON  
-- Debogage et analyse des logs serveur  
+- Débogage et analyse des logs du serveur  
 - Gestion des processus et des ports réseau  
 - Conteneurisation avec Docker  
 
 🟢 Ce projet montre que :  
 
-- Un modèle d'IA fonctionne comme un service réseau   
+- Un modèle d'IA peut être exposé comme un service réseau   
 - L'inférence est un processus backend observable  
 - L'IA s'intègre dans une architecture moderne (API-first)  
 - Les logs, ports et processus sont essentiels à la compréhension du système  
